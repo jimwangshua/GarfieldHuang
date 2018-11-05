@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "SpringBoot-Lombok",
+                "projectName": "SpringBoot-Lombok",
+                "workingDirectory": "d:\\github\\GarfieldHuang\\demo\\SpringBoot\\SpringBoot-Lombok",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "SpringBoot-Lombok",
+                "projectName": "SpringBoot-Lombok",
+                "workingDirectory": "d:\\github\\GarfieldHuang\\demo\\SpringBoot\\SpringBoot-Lombok",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

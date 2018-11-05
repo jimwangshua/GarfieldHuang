@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "HelloWorld",
+                "projectName": "HelloWorld",
+                "workingDirectory": "d:\\github\\GarfieldHuang\\demo\\SpringBoot\\HelloWorld",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "HelloWorld",
+                "projectName": "HelloWorld",
+                "workingDirectory": "d:\\github\\GarfieldHuang\\demo\\SpringBoot\\HelloWorld",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
